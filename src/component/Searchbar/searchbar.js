@@ -1,11 +1,8 @@
 import React, {Component} from 'react'
 import './searchbar.css'
 import Showout from '../Showout/showout'
+import api from '../../Api/key'
 
-const api = {
-   key : '6646794ec66741f001a57cf5b39d52e1',
-   url : 'https://api.openweathermap.org/data/2.5/weather?q=',
-};
 class Searchbar extends Component{
    constructor(props){
      super(props);
