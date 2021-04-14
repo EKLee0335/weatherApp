@@ -1,3 +1,13 @@
+# Project description
+
+This project was built by using react and the open weather API.
+if you wanna more information about open weather pls go your browser and search https://openweathermap.org/
+
+
+property:
+1. search function(English only).
+2. the icon will change according to the city's weather that you just searched.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
