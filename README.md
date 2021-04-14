@@ -1,7 +1,7 @@
 # Project description
 
 This project was built by using react and the open weather API.
-if you wanna more information about open weather pls go your browser and search https://openweathermap.org/
+if you wanna get more information about open weather pls go your browser and search https://openweathermap.org/
 
 
 property:
